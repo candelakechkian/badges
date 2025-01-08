@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="24" viewBox="0 0 150 24">
   <!-- Background Rectangle -->
-  <rect width="150" height="24" fill="#0D1117" rx="4"/>
+  <rect width="150" height="24" fill="#151C22" rx="4"/>
 
   <!-- Text -->
-  <text x="30" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="12">Candela-Verified</text>
+  <text x="30" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="12" font-weight="bold">Candela-Verified</text>
 
   <!-- SVG Icon -->
   <svg x="6" y="5" width="14" height="14" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
